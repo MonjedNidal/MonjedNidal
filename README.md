@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning problem solving.
 - 💞️ I’m looking to collaborate on Google).
 
-<b> Instagram: <a href="https://www.instagram.com/monjed_mas/">MonjedNidal</a>
+<b> Instagram: <a href="https://www.instagram.com/monjednidal/">MonjedNidal</a>
 <br>Telegram: @MonjedNidal </b>
 
 <!---
