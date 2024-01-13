@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonjedNidal
-- 👀 I’m interested in Development in general but i like the most is Frontend development and javaaa.
+- 👀 I’m interested in Development in general but I like Frontend development the most.
 
 <b> Instagram: <a href="https://www.instagram.com/monjednidal/">MonjedNidal</a>
 <br>Telegram: @MonjedNidal </b>
