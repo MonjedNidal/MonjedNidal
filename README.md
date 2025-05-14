@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MonjedNidal
 
-<b> Instagram: <a href="https://www.instagram.com/monjednidal/">MonjedNidal</a>
 <br>Telegram: @MonjedNidal </b>
 
 <!---
